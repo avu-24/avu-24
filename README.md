@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avu-24
 - 👀 I’m interested in all things development, I aspire to join teams of like minded individuals. I hope to also join video game development!
-- 🌱 I’m currently learning C# and C++ to better build my developer toolbelt. I am 
+- 🌱 I’m currently learning C# and C++ to better build my developer toolbelt.
 - I’m looking to collaborate on any developmemnt projects using JS and React to better my skills 
 - 📫 How to reach me: atarango2400@gmail.com
 
